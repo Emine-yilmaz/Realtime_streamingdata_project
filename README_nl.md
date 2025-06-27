@@ -2,7 +2,7 @@
 
 ###  ⏱ Duur: 2 weken
 
-### 👥 Team: Yasin (Teamleider), Kahraman, Emine, Ayşe
+### 👥 Team: Yasin, Kahraman, Emine, Ayşe
 
 ### 🔧 Tools: Microsoft Fabric | Eventstream | Delta Lake | Dataflow Gen2 | Power BI | Eventhouse | Activator | Trello
 
